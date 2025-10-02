@@ -131,7 +131,128 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
-  }
+  },
+  {
+    title: 'Wild Dark Shore',
+    author: 'Charlotte McConaghy',
+    genre: 'Adventure fiction',
+    published_year: 2025,
+    price: 14.99,
+    in_stock: true,
+    pages: 307,
+    publisher:'Flatiron Books',
+  },
+  {
+    title: 'Wild Dark Shore',
+    author: 'Charlotte McConaghy',
+    genre: 'Adventure fiction',
+    published_year: 2025,
+    price: 14.99,
+    in_stock: true,
+    pages: 307,
+    publisher:'Flatiron Books',
+  },
+  {
+      title: "The Midnight Library",
+      author: "Matt Haig",
+      genre: "Fiction",
+      published_year: 2020,
+      price: 16.99,
+      in_stock: true,
+      pages: 304,
+      publisher: "Canongate Books"
+    },
+    {
+      title: "Project Hail Mary",
+      author: "Andy Weir",
+      genre: "Science Fiction",
+      published_year: 2021,
+      price: 19.99,
+      in_stock: true,
+      pages: 496,
+      publisher: "Ballantine Books"
+    },
+    {
+      title: "Where the Crawdads Sing",
+      author: "Delia Owens",
+      genre: "Mystery",
+      published_year: 2018,
+      price: 14.99,
+      in_stock: true,
+      pages: 368,
+      publisher: "G.P. Putnam's Sons"
+    },
+    {
+      title: "The Invisible Life of Addie LaRue",
+      author: "V.E. Schwab",
+      genre: "Fantasy",
+      published_year: 2020,
+      price: 17.5,
+      in_stock: true,
+      pages: 448,
+      publisher: "Tor Books"
+    },
+    {
+      title: "The Song of Achilles",
+      author: "Madeline Miller",
+      genre: "Historical Fiction",
+      published_year: 2011,
+      price: 13.99,
+      in_stock: true,
+      pages: 368,
+      publisher: "Ecco"
+    },
+    {
+      title: "Educated",
+      author: "Tara Westover",
+      genre: "Memoir",
+      published_year: 2018,
+      price: 15.99,
+      in_stock: true,
+      pages: 352,
+      publisher: "Random House"
+    },
+    {
+      title: "Circe",
+      author: "Madeline Miller",
+      genre: "Fantasy",
+      published_year: 2018,
+      price: 16.5,
+      in_stock: true,
+      pages: 393,
+      publisher: "Little, Brown and Company"
+    },
+    {
+      title: "Normal People",
+      author: "Sally Rooney",
+      genre: "Romance",
+      published_year: 2018,
+      price: 12.99,
+      in_stock: true,
+      pages: 273,
+      publisher: "Faber & Faber"
+    },
+    {
+      title: "The Silent Patient",
+      author: "Alex Michaelides",
+      genre: "Thriller",
+      published_year: 2019,
+      price: 14.5,
+      in_stock: true,
+      pages: 336,
+      publisher: "Celadon Books"
+    },
+    {
+      title: "Klara and the Sun",
+      author: "Kazuo Ishiguro",
+      genre: "Science Fiction",
+      published_year: 2021,
+      price: 18.0,
+      in_stock: true,
+      pages: 320,
+      publisher: "Knopf"
+    }
+
 ];
 
 // Function to insert books into MongoDB
